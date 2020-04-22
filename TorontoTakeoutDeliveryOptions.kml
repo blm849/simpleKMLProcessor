@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Toronto Takeout/Delivery options</name>
+    <description><![CDATA[You don't have to use this map, but if you wish to support local restaurants with takeout, here's a resource. I understand this map will get obsolete as the days progress. Will try to maintain it<br>]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Cafes/Bakeries</name>
+      <Placemark>
+        <name>Zav Coffee Shop</name>
+        <description>Open and doing takeout only. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3139362,43.6856078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roselle Desserts West</name>
+        <description><![CDATA[Pastries and sweets for takeout, <br>https://www.instagram.com/roselle_to/?hl=en]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4225325,43.6436986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thobors Bakery</name>
+        <description><![CDATA[Open for takeout<br>https://www.instagram.com/thoborsbakery/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.388494,43.70454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Epi Breads</name>
+        <description>Breads for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3747594,43.7041139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blackbird Baking Co. Riverside</name>
+        <description><![CDATA[At this time as an essential service we will continue to bake and both of our retail locations remain open. As previously stated we have made adjustments as to how we are operating to try our best to keep our staff and customers safe. We ask that you respect the limitations in place on the number of customers allowed in our shops and to also keep your distance from others if a queue forms. The people need to eat! We love you, thank you for the support, stay safe and we will see you on the other side. ❤️🙏 Simon and the Blackbirds. We also continue to supply the following food shops with our breads...and we are doing our best to meet demand.<br>@pusaterisfoods (all locations)<br>@mcewanfoods @fiestafarmsto @thesweetpotatotoronto @alimentaritoronto @rowefarms (Leslieville only) @hookedinc @hookedonthedanforth @harvestwagon @sanagansmeatlocker (east side!) @thevillagegrocer @gardenfoodsmkt @raisetherootmarket @roastbutcher @coppasfreshmarket (downtown only) @theepicureshop @luckypennyto @popbox.mrkt @boucherieto @goodcheeseto<br>https://www.instagram.com/p/B91xbKJBllf/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3524961,43.6579811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Somun Superstar</name>
+        <description><![CDATA[Breads (somun) for takeout, <br>https://www.instagram.com/somunsuperstar/?hl=en<br><br>"We are open for takeout orders while dilligently working to help stop the spread of COVID-19 virus. Following the recommendations of Toronto Medical Officer of Health and Province of Ontario, we are closing our 8-seat eating area and asking our customers to enjoy our food at home. We will not be accepting cash payments—we accept all debit and credit cards and digital payment methods. We have implemented enhanced cleaning and sanitization protocols and we screen all staff for COVID-19 symptoms. We will continue to monitor recommendations from health officials."]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2857,43.6808327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fahmee Bakery</name>
+        <description>Patties for takeout </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.44374,43.6605266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roselle Desserts</name>
+        <description><![CDATA[Pastries and sweets for takeout<br>https://www.instagram.com/roselle_to/?hl=en]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3620478,43.6535432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blackbird Baking Co.</name>
+        <description><![CDATA[https://www.instagram.com/p/B91xbKJBllf/<br>At this time as an essential service we will continue to bake and both of our retail locations remain open. As previously stated we have made adjustments as to how we are operating to try our best to keep our staff and customers safe. We ask that you respect the limitations in place on the number of customers allowed in our shops and to also keep your distance from others if a queue forms. The people need to eat! We love you, thank you for the support, stay safe and we will see you on the other side. ❤️🙏 Simon and the Blackbirds. We also continue to supply the following food shops with our breads...and we are doing our best to meet demand.<br>@pusaterisfoods (all locations)<br>@mcewanfoods @fiestafarmsto @thesweetpotatotoronto @alimentaritoronto @rowefarms (Leslieville only) @hookedinc @hookedonthedanforth @harvestwagon @sanagansmeatlocker (east side!) @thevillagegrocer @gardenfoodsmkt @raisetherootmarket @roastbutcher @coppasfreshmarket (downtown only) @theepicureshop @luckypennyto @popbox.mrkt @boucherieto @goodcheeseto]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4006676,43.6549012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>mon K patisserie</name>
+        <description><![CDATA[https://www.instagram.com/monkpatisserie/<br>Open for takeout. Coffee and their wide assortment of incredible pastries.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3294056,43.6969556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Pie Commission</name>
+        <description><![CDATA[https://www.instagram.com/thepiecommission/<br>"Queensway is open normal hours until 8pm tonight. Take-out only obviously. We’ll review our hours over the next couple of days to see if they require changing. @shopsquareone has reduced mall hours to 11-7pm so our store there has followed suit."]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.511165,43.6238049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pomarosa Coffee Shop & Kitchen]]></name>
+        <description><![CDATA[https://www.instagram.com/pomarosa_to/<br>open for takeout]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.325461,43.68324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NEO COFFEE BAR</name>
+        <description><![CDATA[Delivery through Uber Eats. Takeout available. <br>https://www.instagram.com/neocoffeebarto/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3692187,43.6507314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lamanna's Bakery]]></name>
+        <description>Takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.1486,43.7979083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lamanna's Bakery]]></name>
+        <description>Bakery open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.1486,43.7979083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elm Street Deli</name>
+        <description><![CDATA["Elm St Italian Deli ONLY offers take out sandwiches. No eating inside at the stand up window until further notice"<br>https://www.instagram.com/elmstdeli/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3824341,43.6574707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flaky Tart</name>
+        <description><![CDATA[https://www.instagram.com/flakytart/<br>Open for baked goods]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3893299,43.7066778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jules Cafe Patisserie</name>
+        <description><![CDATA["we will only sale our products to walk-in clients. We are eliminating the dine-in option until further notice.<br>Meanwhile, we are giving you an option to have your lunch delivered and enjoy it from the comforts of your home.<br>Thank you for your support,"<br>They also have a delivery zone. on IG<br>https://www.instagram.com/p/B90MvumhhG5/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3883088,43.7041502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crave Doughnuts</name>
+        <description><![CDATA["Until further notice, we will remain OPEN with our regular hours with a few adjustments. Starting Wednesday, we will be limiting the amount of individuals coming in and out of shop to one at a time. No cash transactions, tap preferred and minimizing the interactions between employees and customers to ensure the safety for us all. We are asking for your patience and understanding as we don’t really know how this will all play out. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>We also want to take this moment to thank ALL of you for your continued support during this unique time. We are beyond grateful to be able to provide a source of happiness and comfort to our community we are so proud to be a part of. This is ALL subject to change at the drop of a dime, we don’t really know long we will be doing this for, or if we will end up closing all together (temporarily not permanently). We are carefully monitoring the situation and we will update you with any changes as they happen. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>We also want to take this opportunity to thank our amazing suppliers. We wouldn’t be where we are without their support. We will continue to work with them to provide the high quality product that you know and love. We also know that this may also change as time goes on but we will work together until we are told otherwise. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>Once again, THANK YOU, THANK YOU, THANK YOU! These are unique and difficult times for any business but especially a small, local business. We are small but mighty and we know we will get through this together."<br><br>https://www.instagram.com/crave.doughnuts/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -78.9306762,43.8820181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bread and Salt Bakehouse</name>
+        <description><![CDATA[Great food and pastries are only available for pick up, or deliver via Uber eats and skip the dishes.<br>Our business hours will be from 9:00 am to 3:00 pm. Until further notice.<br>A limit of 5 bags of pita per family will be enforced strictly.<br>https://www.instagram.com/breadandsaltbakehouseca/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.6524473,43.5686156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BB Cafe- North York</name>
+        <description>open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4178407,43.7911319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>United Bakers Dairy Restaurant</name>
+        <description><![CDATA["We will have: TAKEOUT, DELIVERY, and UBER EATS available for you to order.<br><br>For 108 years, whatever challenges our City, our Province, and Country have faced, we have faced them with you. We consider it a privilege to continue to serve you and provide a sense of comfort and consistency in an otherwise tumultuous world."<br>https://www.instagram.com/unitedbakers/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4311111,43.7202778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Pebbles</name>
+        <description><![CDATA["Desserts are all stocked up - get’em for your dessert fix while staying at home. We’re open 11-5 everyday"<br>https://www.instagram.com/littlepebblesto/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4000769,43.6549706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Tempered Room</name>
+        <description><![CDATA["We are open today as a completely altered facility in these surreal times. Our hours will always be kept updated on Google. We are certain we are vastly cleaner and safer than any corporate grocery store. Our employees are now dedicated warriors doing everything they can to get you baked items for your home and freezer before it's too late. Please see our stories for details and what's available. Please please don't take away our attention from providing provisions with custom requests not on the menu and self entitled demands - these are dire times and we all must function towards the greater good"<br>https://www.instagram.com/thetemperedroom/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4331557,43.6414573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plan B - Handmade Burgers, Boerewors and Braai</name>
+        <description><![CDATA["TAKE OUT AND ORDING IS STILL AVAILABLE - EAT IN CLOSED<br>.<br>Your health and safety is our highest priority. Because community transmission of COVID-19 can not be ruled out, we will do our part and temporarily close our storefront until further notice.<br><br>ORDER VIA:<br>• 416-231-4444 (call ahead, no walk-ins)<br>.<br>• SKIP THE DISHES: https://www.skipthedishes.com/plan-b-hand-made-burgers-boerewors-and-braai"<br><br>https://www.instagram.com/plan.b.burgers.boerewors.braai/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.5075252,43.647961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hatch Coffee Roasters</name>
+        <description><![CDATA[" Retail coffee will be available, as well as some home brewing equipment - perfect time to practice at home.<br><br>We’ve added some precautionary measures if you are coming in to purchase retail:<br>- we’ll continue to only accept cashless payments. Our payment terminal will be disinfected after each transaction - social distancing is in effect; as much as it pains us to cut our interactions short, it is for the better<br>- Hand sanitizer is available at our entrance'"<br><br>https://www.instagram.com/hatchcrafted/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3627069,43.846234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koji Japanese Restaurant</name>
+        <description><![CDATA[https://www.instagram.com/p/B91tmXZBh8X/?igshid=8yz64wwa1ozw<br><br>Open for takeout ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4527132,43.6651011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Brewery</name>
+      <Placemark>
+        <name>Blood Brothers Brewing</name>
+        <description><![CDATA[- FREE, same-day, local delivery for orders over $100 (postal code must start M2 - M9)<br><br>- $10 flat delivery fee for orders <$100 (same region)<br><br>- Orders must be placed by noon for same-day delivery, otherwise will arrive following weekday<br><br>- Other Ontario customers can continue to order through the online shop, with discounted shipping rates -- delivery via Canada Post.<br><br>- Beginning Wednesday, take-out food menu will be updated.<br><br>Instagram > https://www.instagram.com/bloodbrothersbrewing/?hl=en]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4366064,43.6698901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Lakes Brewery</name>
+        <description><![CDATA[1. Retail only. You’ll be able to visit us in glorious Etobicoke to fill your trunk up with #FreshGLB cans and cases and kegs<br><br>3. All food service has been closed until further notice<br><br>4. Online orders - Working on it<br><br>5. We continue to clean, clean, clean and clean again<br><br>6. We encourage customers visiting us to make purchases with plastic as opposed to cash<br><br>Things of note:<br><br>a. You can order our beer via http://LCBO.com<br><br>b. The LCBO remains open - lots of our beer there<br>https://twitter.com/GreatLakesBeer]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.5047989,43.622776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Indie Alehouse</name>
+        <description><![CDATA[- Moving to a take-out ONLY model, for now. <br><br>- Customers are encouraged to call ahead, so orders will be ready when they arrive. <br><br>- Beer delivery is available through the online bottle shop: https://indiealehouse.com/collections/online-bottle-shop<br> <br>- Indie is about to implement FREE (with a minimum order of 12) delivery of beer in Toronto. Use code YYZDELIVERY<br><br>-- Customers can also purchase gift cards towards future purchases, through the online shop: <br><br>Menu<br>https://indiealehouse.com/pages/brewpub-menu ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4653387,43.6655507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Left Field Brewery</name>
+        <description><![CDATA[$10 flat rate shipping on all online orders over $50.00, anywhere in Ontario. <br>https://fanshop.leftfieldbrewery.ca<br><br>- Closing the Tap Room and cancelling all events until further notice<br>- Postponing all new beer releases until further notice<br>- Keeping the Bottle Shop open for to-go sales from 11am - 9pm <br>- Keeping the Online Fan Shop open for beer home delivery <br>- Continuing to proceed with all newly implemented sanitization and safety efforts<br>- Continuing to monitor and follow advice from public health officials<br><br>https://twitter.com/LFBrewery]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3304611,43.6737842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Godspeed Brewery</name>
+        <description><![CDATA[https://www.instagram.com/p/B9zrhS7h4ZJ/<br>Our retail shop will remain open from 10am-9pm for beer-to-go and we will continue to employ the heightened sanitation standards we have enacted in light of recent events.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.319419,43.6724786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fearless Meat</name>
+        <description><![CDATA[https://www.facebook.com/FearlessMeat/<br>"We shall still be open our normal hours for takeout ordering as normal !!!<br><br>www.fearlessmeat1.com<br>https://www.ubereats.com/…/fearless-…/P6jVpIigTiiGtHMk3G2wEA (ubereats is waiving delivery fees)<br><br>We also remain committed to helping those most vulnerable And those seniors, pensioners, and Veterans in need are welcome to a free takeout 6oz certified Angus Beach Burger or breakfast sandwich and coffee until this crisis passes.<br><br>We are Torontonians and Canadians.who are going to show the world just how we come together and help each other in face of any crisis !!!<br><br>BlogTO just rated Fearless Meat # 5 Best Burger in Toronto.<br><br>Sincerely David Brown Owner of Fearless Meat<br>The Butcher of Canada<br>And all the Staff of Fearless Meat<br><br>$ • Burgers • American • Fast Food • Diner • Deli At Fearless Prices “THE ONLY TIME TO EAT DIET FOOD IS WHILE YOU'RE WAITNG FOR THE STEAK TO COOK.” Julia Child"]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2902579,43.6804429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Granite Brewery</name>
+        <description>doing takeout, and their beer retail counter is still open</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3897222,43.7080556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muddy York Brewing Co.</name>
+        <description><![CDATA[https://www.instagram.com/mybrewingco/<br><br>"We have closed the taproom and retail store to the public until further notice due to the COVID-19 outbreak.<br><br>Instead of our truck being filled with kegs bound for bars and restaurants this Friday, we will be filling it with cans and bottles to be delivered direct to your door across Toronto.<br><br>We’re offering free delivery for local orders over $100 (excluding tax). We will also continue to offer the usual $10 flat rate fee (per shipping box) for any orders that don’t meet the minimum.⁣ This how you meet the requirements for free delivery:<br><br>Spend $100 (excluding tax) on the online store<br><br>Use the promo code: FREETO<br><br>Have a delivery address that is within these borders: West of Warden Ave, South of Lawrence Ave, and East of Parkside Dr, Keele St, Weston Rd, Black Creek Dr<br><br>We will be making a “no contact” drop of goods, so make sure you include your cell number while filling out your order. You will receive a text message when your package arrives. If you have taps at home we can also extend the free shipping offer to kegs, contact us for availability and prices.<br>All other Ontario residents can continue to order from our online shop.<br>These are definitely unprecedented times we’re living in. We are grateful for you, our dear customer, and are sincerely wishing you and your family some peace during this uncertain time.<br>Muddy York Brewing Co."]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.31216,43.712436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Restaurants</name>
+      <Placemark>
+        <name>Kibo Sushi House - Leslieville</name>
+        <description>doing takeout and app delivery on 5 platforms</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3326829,43.6625998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lady Marmalade</name>
+        <description><![CDATA[offering takeout from 9 a.m. to 2 p.m.<br>Instagram > https://www.instagram.com/ladymrestaurant/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.351511,43.663208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roti Cuisine Of India</name>
+        <description>Full menu available for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4084171,43.6748048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yueh Tung Restaurant</name>
+        <description><![CDATA[Takeout daily from 1130am to 8pm<br>At Yueh Tung, we are closely monitoring the situation surrounding COVID-19.<br>_<br>Our restaurant will continue to remain open for takeout and delivery. However, in an effort to flatten the curve and keep everyone safe we will be adjusting our hours of operation from 11:30AM to 8PM daily, and closing our dining area until further notice to mitigate the chance of spread.<br>_<br>We encourage you to enjoy our foods from the comfort of your own home in order to keep safe. We are available for delivery on platforms: ubereats, doordash and mealpal. As well, we will still be accepting all takeout orders.<br><br>Stay safe and thank you for your understanding at this time.<br>Yueh Tung Management<br>https://www.instagram.com/p/B90LeZmhFuR/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3852591,43.6551375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chantecler Restaurant</name>
+        <description>Operating as Le Phenix, doing deliveries. Menu will be on instagram, https://www.instagram.com/lephenixto/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4312411,43.6418312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sauvignon Bistro</name>
+        <description><![CDATA[http://www.sauvignonbistro.com/<br>Open for takeout only]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3071611,43.6686111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spice Indian Bistro</name>
+        <description>Regular menu is available for takeout and delivery</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3690766,43.6539804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jatujak</name>
+        <description>Open for takeout and delivery</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2702759,43.6886102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hong Shing Chinese Restaurant</name>
+        <description><![CDATA[offering takeout/delivery till 2am!<br>https://www.instagram.com/hongshingto/?hl=en]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3868933,43.654927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plank Road Market</name>
+        <description>Market is open and so is the sandwich counter for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.320249,43.684237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khau Gully</name>
+        <description><![CDATA[Khau Gully will be closed for dine-in services effective 10:30pm EST (March 16, 2020). Our take-out and delivery services continue to operate via our telephone line (+1 647-347-9993) as well as online delivery apps (UberEats, Foodora, Doordash,Ritual and Skip the Dishes). Please feel free to contact us for any further questions.<br>We thank you for you understanding.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3968713,43.7005444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tabule Middle Eastern Cuisine</name>
+        <description><![CDATA[we will be only offering takeout and delivery from our<br>@riverside_bia @midtownyongebia & @canarydistrict locations.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3464023,43.6598176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tabülè Middle Eastern Cuisine</name>
+        <description><![CDATA[we will be only offering takeout and delivery from our<br>@riverside_bia @midtownyongebia & @canarydistrict locations.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3969397,43.7009565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Souk Tabule</name>
+        <description><![CDATA[we will be only offering takeout and delivery from our<br>@riverside_bia @midtownyongebia & @canarydistrict locations.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3544417,43.6538167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Five Doors North</name>
+        <description><![CDATA[We will miss you but at least we can still feed you. Call ahead for take-out orders or have it delivered from @ubereats or @doordash<br>We will see you soon enough<br>https://www.instagram.com/p/B9zw9VEhvUt/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3977389,43.7022528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East of York Gourmet Food Co.</name>
+        <description><![CDATA[Samosas for takeout, also delivery options if you call.  "ut we’re here for you. With samosas, and mom’s famous beans and rice, and that baked hot and crunchy chicken sandwich you’ve been meaning to try for months now. Maybe your kids want butter chicken schnitzel tacos.<br>They definitely want a cookie for dessert.<br>Give us a call. We’ll drop you a fresh meal with no contact delivery, so we all get to keep holding up our end of the bargain to keep our communities safe.<br>And that cookie? Get one for yourself too. And maybe some curries for tomorrow. They’ll keep in your fridge.<br>Place your order by calling us at tel:(416)421-9990 or emailing us at mailto:ash@eastofyork.com the day before you need it. It’ll be there by the time you need dinner, with quick instructions on pulling a delicious, healthy, nourishing meal for your family together in minutes."]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3166439,43.6850442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fishbone Bistro</name>
+        <description><![CDATA[It’s with a heavy heart that our Family and Fishbone Team announce our TEMPORARY Dine-In closure due to the Covid-19 circumstances as mandated by governments.<br>We are beyond grateful for all the support we received from you over the last couple weeks.<br>It’s heartbreaking to see our whole industry once again, through the ages, be the “front line” of the economy in taking the first hit. We serve and feed every single day with so much pride, regardless of the daily hardships.<br>To our team, we will come back stronger, better and ready to make an even bigger difference in our communities. ❤️❤️<br>We truly love you Fishboners out there and certainly hope we get a chance to serve you again very soon !<br>In meantime, we are offering evening<br>Take Out, Delivery and Gift Cards ( 25% off on GC )<br>Contact<br>orders@fishbonerestaurants.com<br>https://www.facebook.com/search/top/?q=fishbone%20bistro&epa=SEARCH_BOX]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2509444,43.9706083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fickle Pickle Restaurant</name>
+        <description><![CDATA[n 22 years of business the Fickle Pickle Restaurant has never closed its doors, until now. We are shocked and in great sorrow, as we know everyone is. This restaurant in this community means the world to our family. We have put our heart and souls into it and have truly enjoyed serving such a wonderful community. We feel at such a great loss and having to lay off such a wonderful devoted staff pains us deeply. The only light in all this is that we are still able to offer take-out and delivery service to you. Knowing that this was probably going to happen we partnered up with Uber Eats delivery service, which is now up and running and we are presently working on partnering up with Skip The Dishes as well (Skip The Dishes should be up and running by the end of the week). We will continue to offer our regular call in take-out and pick-up at our regular menu price as well.<br>Know that, as posted on our front door (see photo) we are taking all precautions and maintaining all recommended safety measures is essential to us. Your health and safety and that of our staff is of the utmost importance to us. We ask that in these trying times we come together as a strong community and support each other. We appreciate your patronage and look forward to continuing to serve you.<br>https://www.facebook.com/search/top/?q=the%20fickle%20pickle&epa=SEARCH_BOX]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2459944,43.9716639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colombian Street Food by Cookie Martinez</name>
+        <description><![CDATA[https://www.instagram.com/cookiemartinezcookie/<br>M-F: 10a-2p<br>Saturday: 12p-6p<br>Takeout and ritual, menu here,<br>https://cookie-martinez.square.site/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4530505,43.6651349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Toston</name>
+        <description><![CDATA[WE ARE OPEN! - we are taking deliveries and pickup orders. Contact us!<br>For pick-up: call us to 647-666-2400<br>https://www.instagram.com/thetostoncuisine/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2526674,43.8491812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Maha's]]></name>
+        <description><![CDATA[https://www.instagram.com/p/B9z8vccBaZr/<br>"We have decided, as a family, to close both of our dining rooms until further notice, due to the severity of the situation at hand. This is for the saftey of our community, our team and our family.<br>.<br>.<br>In the meantime, we will be offering our full menu for takeout. Please call ahead at 416 462 2703. .<br>.<br>Our hours will be reduced from<br>8:00 AM until 5:00 PM daily.<br>.<br>.<br>We continue to practice our extreme care when it comes to the sanitation and cleanliness of our beautiful restaurant, our second (if not first) home."]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3285255,43.6717021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Descendant Detroit Style Pizza</name>
+        <description><![CDATA[https://www.instagram.com/p/B9z1D3WhaXU/<br>"Still be open for take out and delivery through Uber Eats. We understand that some people may feel uncomfortable to come in to the pizzeria so effective tomorrow, we will offer curb side service."]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3324041,43.662889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pili Pili</name>
+        <description>Takeout only</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2982616,43.7448457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ghadir Meat & Restaurant]]></name>
+        <description><![CDATA[Meat and grocery section will continue to operate regular hours. Pickup orders are available. Takeout meals (shawarma/lahmajoun/kebabs) available. They're also on ubereats, doordash, skipthedishes]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3042399,43.7437109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hype Food Co.</name>
+        <description>Avaiable for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.335868,43.669294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maker Pizza Downtown</name>
+        <description><![CDATA[https://www.instagram.com/p/B9zuUMeh6P6/<br>We are going to continue to close our dine-in areas at both locations and transition to pick-up and delivery only. This means – you can order by phone, our app or third-party delivery partners. We are introducing Curb-side Service for pick-up orders. We are also introducing non-contact delivery which is available at your request.<br>We at Maker Pizza appreciate your patience and understanding during these unprecedented times. We will make changes and future adjustments based on government recommendations and we will continue to update you.<br>The safety and welfare of our customers and our team is of utmost importance to us. Stay positive. Much love.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3980951,43.650437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maker Pizza Avenue</name>
+        <description><![CDATA[https://www.instagram.com/p/B9zuUMeh6P6/<br>We are going to continue to close our dine-in areas at both locations and transition to pick-up and delivery only. This means – you can order by phone, our app or third-party delivery partners. We are introducing Curb-side Service for pick-up orders. We are also introducing non-contact delivery which is available at your request.<br>We at Maker Pizza appreciate your patience and understanding during these unprecedented times. We will make changes and future adjustments based on government recommendations and we will continue to update you.<br>The safety and welfare of our customers and our team is of utmost importance to us. Stay positive. Much love.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4151885,43.7230965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Porchetta & Co.]]></name>
+        <description><![CDATA[https://www.instagram.com/p/B9yzOkCgkVl/<br>We will still be open for Walk-in takeout/pickup and all delivery and pickup apps ONLY for as long as we can!<br>@ritual_co<br>@uber_canada<br>@doordash<br>@foodora_ca<br>HOURS OF OPERATION:<br>EXCHANGE TOWER<br>Monday - Friday<br>8:00am - 6:00pm]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3988563,43.6445676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Knuckle Sandwich</name>
+        <description><![CDATA[https://www.instagram.com/knucklesandwichto/?hl=en<br>Takeout from 11am to 8pm every day]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.328696,43.696227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mona's Roti]]></name>
+        <description><![CDATA[https://www.instagram.com/monasroti/<br>Open with reduced hours: 11am to 6pm. Takeout for roti and doubles]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2509165,43.7915878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Martin's Bakery]]></name>
+        <description>Open for Sri Lankan takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.245469,43.8215337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Quality Bakery</name>
+        <description>Open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2800956,43.7650322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JetFuel Coffee Shop</name>
+        <description><![CDATA[https://www.instagram.com/jetfuelcoffee/<br>Open for to-go]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3682139,43.6653389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[SumiLicious Smoked Meat & Deli]]></name>
+        <description><![CDATA[https://www.instagram.com/sumiliciousdeli/<br>Open for takeout]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2674467,43.832319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Poet Cafe</name>
+        <description><![CDATA[Open for takeout and delivery<br>Also on Ritual]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3712062,43.6505108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spice Indian Bistro</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3690766,43.6539804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aloette Restaurant</name>
+        <description><![CDATA[https://www.instagram.com/aloette_restaurant/<br>Not sure about takeout but Aloette is on Ritual and Doordash]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3959494,43.6485042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Vito's Pizza & Wings]]></name>
+        <description>Open for takeout and delivery</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.642338,43.5667876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Aviary</name>
+        <description><![CDATA[bottle shop & takeout open]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.354708,43.6537058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Golden Crisp Fish & Chips]]></name>
+        <description><![CDATA[offering take out fish and chips.<br>Call Ahead]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4989627,43.6903088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lime Asian Kitchen</name>
+        <description>Takeout available for their Post Media-award winning spring rolls and other treats.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4030421,43.7289743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Famiglia Baldassarre</name>
+        <description><![CDATA[https://www.instagram.com/famiglia_baldassarre/<br>"We will be open Tuesday to Friday 12-5pm and Saturday 10am to 2pm. The hours may change folks. Stay tuned into our stories for offerings and changing details. Buy #loveyouall #wegotthis"]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4349792,43.6704531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brock Sandwich</name>
+        <description><![CDATA[https://www.instagram.com/brocksandwich/<br>"Takeout and delivery are at the roots of how Brock Sandwich began, so we are ready to relive our humble beginnings. Get at us on UberEats, Foodora, Doordash, and Ritual."]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4405362,43.6589313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drums N Flats</name>
+        <description><![CDATA[https://www.instagram.com/p/B91zMBdgPJ_/<br>Drums N Flats will be OPEN TODAY at 4pm for Take Out & Delivery using UberEATS DoorDash & SKIP<br>Please call 647-347-9474 or order online at www.drumsnflats.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4202531,43.7351052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Meats BarBeque</name>
+        <description><![CDATA[Open for takeout and they have a sizeable delivery radius.<br>"Notes (takeout? delivery? menu? special services?)"<br>https://twitter.com/RoyalMeats]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.5292541,43.6254577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terroni Sud Forno Produzione e Spaccio</name>
+        <description>open for fresh pasta / other items for take out too.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.360196,43.653848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mengrai Thai</name>
+        <description>Offering takeout and delivery</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.366916,43.654099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[East Court and Mike's BBQ]]></name>
+        <description>Open for takeout. BEST BARBECUE!</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2698386,43.7877616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adamson Barbecue</name>
+        <description>Open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3532465,43.7124113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coffee In</name>
+        <description>Open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2834793,43.7474325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nantha Caters</name>
+        <description>open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3189173,43.7964827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sang-Ji Fried Bao</name>
+        <description><![CDATA[https://www.instagram.com/p/B9z5993hGhG/<br>Fried Bao will be offering only Take-out or Delivery option at the moment.<br>You may visit UberEats App, Fantuan App, or Lanyangyang App for our takeout menu.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4141147,43.7765994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Budapest Restaurant</name>
+        <description>Open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3099951,43.6810305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nanaz Kitchen - Mediterranean Restaurant & Catering]]></name>
+        <description><![CDATA["During this time, however, we will remain open for pick-up, delivery, and catering. We implore our loved ones and community to support us and other small businesses through delivery options such as Ubereats and Doordash or call for pick-up. Ubereats is offering $0 delievery and we are offering a 10% discount for all pick-up orders."<br>https://www.instagram.com/nanazkitchen/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -80.5504017,43.500275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beiteddine Lebanese Restaurant</name>
+        <description><![CDATA["We will still be open for takeout and delivery between the hours of 4:00 pm and 9:00pm.<br>Give us a call at 416-406-0777 to place an order for pickup, or take advantage of delivery through uber eats or doordash. We thank you for your patience and continued support during this difficult time."<br>https://www.instagram.com/beiteddine_to/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3487085,43.6780471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9 Queen Chinese | 皇后玖號</name>
+        <description>Open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.7595253,43.6861211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tonino's Pizzeria & Panini]]></name>
+        <description>Open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.7999789,43.6958944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rony's]]></name>
+        <description>Open for takeout and delivery</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.739976,43.231863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chip+Malt</name>
+        <description><![CDATA["Due to the Coronavirus (COVID-19) we will be opening as takeout/UberEats only until further notice.<br>This is being done to contribute to social distancing that has been called for by public health officials.<br>We'll be monitoring and following the government's advice and adjust accordingly.<br>We hope these measures will help us make a difference for the health and safety of the people we love and the community we live in during this public health crisis."<br>https://www.instagram.com/chipmalt/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.45719,44.053231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Té</name>
+        <description><![CDATA[Takeout<br>5pm to 10pm daily<br>https://www.instagram.com/te_toronto/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.419686,43.64576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PG Clucks</name>
+        <description><![CDATA[COLLEGE ST IS OPEN FOR TAKEOUT & DELIVERY. WE WILL BE ALLOWING ONE CUSTOMER IN AT A TIME & HAVE GONE CASHLESS TO ENSURE PROPER DISTANCING AND SAFETY OF OUR STAFF.<br>UBER EATS IS OFFERING FREE DELIVERY FOR US. WE CAN ALSO BE FOUND ON DOORDASH, SKIP THE DISHES & FOODORA. PHONE IN ORDERS ARE ALSO WELCOMED, BUT WE ENCOURAGE DELIVERY.<br>WE WILL BE CLOSED FOR NOW AT OUR 384 BLOOR ST LOCATION AS WE WORK OUT A SAFE WAY TO OFFER TAKEOUT/DELIVERY ONLY<br>https://www.instagram.com/pgclucks/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4145844,43.6553023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarlet Ibis Family Restaurant</name>
+        <description>Open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.1697406,43.8034959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patty Time</name>
+        <description>Open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2520875,43.7538088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lageez Authentic Indian Cuisine</name>
+        <description>open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2908072,43.7109437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Diner House 29</name>
+        <description><![CDATA[Small menu available for takeout. Check their IG<br>https://www.instagram.com/dinerhouse29/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.219958,43.17353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cherry Street Bar-B-Que</name>
+        <description>Open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3523139,43.6455917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uptown Brie</name>
+        <description>open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3999138,43.7116543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haldi</name>
+        <description><![CDATA[Open for takeout<br>https://www.instagram.com/haldi.to/?hl=en]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3695006,43.6674139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Salt & Tobacco]]></name>
+        <description><![CDATA[Open for takeout<br>https://www.instagram.com/salttobacco/?hl=en]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3681704,43.6653639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Completo</name>
+        <description><![CDATA[https://www.instagram.com/completo.toronto/?hl=en<br>Open for takeout and offering delivery]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3520836,43.6647498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ricks Good Eats</name>
+        <description><![CDATA[open for takeout and delivery <br>https://www.instagram.com/rickmatharu/?hl=en]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.6860962,43.6484978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Watan Kabob</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.6680678,43.6196252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BarBQ Tonite</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.6176526,43.5795244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amakara Japan</name>
+        <description>take-out and delivery available</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2402488,43.1609907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bella Noella's]]></name>
+        <description>take-out and delivery available, slices available for take-out from 11am to 5pm</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2447171,43.1576716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burrito Boyz</name>
+        <description>take-out available, also delivery through Skip The Dishes, debit or credit payments only</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2435101,43.1581714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Dani's Bistro]]></name>
+        <description>take-out and delivery available</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2431233,43.1587974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dispatch</name>
+        <description><![CDATA[fresh baked breads and prepared meals for pick-up<br><br> have spent the day making a couple of different stews inspired by a Turkish dish called Sütlü Köfte.<br>Along with Turkish bread that will baked fresh tomorrow.<br>One stew is vegan. While the other version is meat.<br>The meat version including lamb from @beverlycreekfarms and chicken has been braised in goats milk and sheep's milk yoghurt.<br>They are both GF friendly.<br><br>Availability for tomorrow Tuesday the 17th is now limited to a few portions of Vegan stew.<br>While I still have approximately 50 loafs of Turkish bread still up for grabs.<br><br>I will continue to make Turkish bread and stews daily for the next day curbside pickup from @dispatchresto<br><br>https://www.instagram.com/chef_ahs/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2409045,43.1604465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Izakaya</name>
+        <description>Discount for take-out and delivery</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2453439,43.1596724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eatz Downtown</name>
+        <description>take-out and delivery only, free delivery during lunch 11am to 3pm, then will temporarily close after 4pm on March 17</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.248136,43.158396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heraki</name>
+        <description>take-out and delivery available</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2465221,43.1583207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Hub Cafe</name>
+        <description>take-out available</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2460841,43.1580826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Huong's Kitchen]]></name>
+        <description>take-out available, plus delivery from Skip The Dishes</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.245803,43.157236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Incoho Restaurant</name>
+        <description>take-out available</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2427091,43.1592328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kully's Original Sports Bar]]></name>
+        <description>take-out only from 12noon to 8pm</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2437397,43.1583134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Little Chief & Co.]]></name>
+        <description>free local delivery on Wednesdays starting March 18 with minimum purchase of $50</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2446663,43.1577157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mahtay Café & Lounge]]></name>
+        <description>open for take-out</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2433624,43.1586189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Merchant Ale House</name>
+        <description>take-out available for food orders and retail beer from 11am to 7pm</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2450472,43.1568222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>oddBird.</name>
+        <description>take-out and delivery available, debit and credit payments only, no cash</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2452448,43.1561327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>pharmacii</name>
+        <description>take-out and delivery available</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.247288,43.157091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sahla Thai</name>
+        <description>take-out and free delivery for St. Catharines residents</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2424277,43.1589712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taibah</name>
+        <description>take-out available, also delivery through Skip The Dishes</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2452174,43.1565897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rasta Pasta</name>
+        <description><![CDATA[We will be doing takeout and delivery apps ONLY. No dine ins. Also, we can offer you a weekly meal plan, buy 6 meals and get the 7th free. Just give us a call and ask for Magnus. We’ll get through this<br>https://www.instagram.com/eatrastapasta/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4004115,43.6542946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arzon Supermarket</name>
+        <description>Takeout counter is open, for kebabs and rice dishes</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.417914,43.7913468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Fry</name>
+        <description>Open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4182406,43.7888716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Get Grill</name>
+        <description>Doing takeout only</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.6370959,43.7004247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chat Hut</name>
+        <description>Doing takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.6455681,43.7056896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mamajoun</name>
+        <description>Mante and Lahmajoun available for takeout only. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.302441,43.760431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hazel's Diner]]></name>
+        <description>open for takeout</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3875145,43.7020941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacos El Asador</name>
+        <description><![CDATA[https://www.instagram.com/tacoselasador/<br>“ our dine-in area has been closed as advised by public health but our kitchen remains open for delivery and take out orders we are available on UberEats and DoorDash- thank you to our community for your continued support! - tacos el Asador]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4169128,43.6637372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stock in Trade</name>
+        <description><![CDATA[https://www.instagram.com/stockintradeto/<br>Sandwiches to go. "We are offering to bring your order to your car. Call us to place your order and we can accept mobile credit card payment on site at time of pick up. Also our online shop should be active tomorrow #curbsidepickup #danforth. Also our sandwiches and roasted chickens are available through Ubereats and Skip The Dishes."]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3305061,43.6820226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southern Accent Restaurant</name>
+        <description><![CDATA["So our doors will be closed but you can order from us 4pm-9pm through #ubereats & #skipthedishes ! We will also be offering #personaldelivery within a 5km radius. Call us at 416-901-3211"<br><br>https://www.instagram.com/southernaccentrestaurant/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4227778,43.6541667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
